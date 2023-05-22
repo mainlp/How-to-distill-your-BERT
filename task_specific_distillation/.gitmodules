@@ -1,0 +1,9 @@
+[submodule "source/hopfield-layers"]
+	path = source/hopfield-layers
+	url = https://github.com/ml-jku/hopfield-layers.git
+
+
+
+[submodule "fairseq/models/huggingface/transformers"]
+	path = fairseq/models/huggingface/transformers
+	url = https://github.com/Xinpeng-Wang/transformers.git

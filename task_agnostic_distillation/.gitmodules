@@ -1,0 +1,3 @@
+[submodule "src/transformers"]
+	path = src/transformers
+	url = https://github.com/Xinpeng-Wang/transformers.git
