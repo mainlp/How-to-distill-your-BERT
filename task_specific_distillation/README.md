@@ -19,7 +19,7 @@ Use `ALL` for preprocessing all the glue tasks.
 
 
 ## Distillation
-We created a python script which helps to create bash script with different parameters such distillation method, GLUE task, mapping strategy, initialisation choices, experiment group (for clearML logging) and seeds list. 
+We created a python script which helps to create and run bash script for running the `train.py` with different parameters such distillation method, GLUE task, mapping strategy, initialisation choices, experiment group (for clearML logging) and seeds list. 
 
 Example:
 ```bash
