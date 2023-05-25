@@ -68,6 +68,13 @@ python run_glue.py \
 
 ## Cite
 ```
-TBA
+@misc{wang2023distill,
+      title={How to Distill your BERT: An Empirical Study on the Impact of Weight Initialisation and Distillation Objectives}, 
+      author={Xinpeng Wang and Leonie Weissweiler and Hinrich Schütze and Barbara Plank},
+      year={2023},
+      eprint={2305.15032},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
